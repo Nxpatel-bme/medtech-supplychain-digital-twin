@@ -1,6 +1,6 @@
 # MedTech Supply Chain Digital Twin
 
-**One-liner:** A supply-chain digital twin that optimizes (s, S) inventory policies to hit 95% service with ~18% lower cost under uncertain lead times.
+A supply-chain digital twin that optimizes (s, S) inventory policies to hit 95% service with ~18% lower cost under uncertain lead times.
 
 > Personal project simulating a hypothetical MedTech supply chain to explore inventory policy optimization.
 > Built to explore stochastic systems, inventory theory, and cost–service trade-offs.
